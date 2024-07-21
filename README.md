@@ -1,14 +1,19 @@
-### Hi there, I'm Drew and I am experienced in sales, operations, and customer service and am currently training in data analytics. 👋
+👋 Hi there! I'm Andrew Self, a detail-oriented Business Analyst based in Nashville, TN, specializing in data collection, analysis, and visualization. With over 400 hours of hands-on experience and a portfolio featuring 7 impactful projects, I thrive in fast-paced environments and excel in customer-facing roles.
 
-Currently I am working as a service advisor at an independent automotive repair shop working as the intermediary between our customers and our technicians to ensure all concerns are properly communicated to streamline the repair process and maximize efficiency. My experience here and in previous roles has helped me develop my time-management, communication, analytical and problem-solving skills. In February of 2024, I enrolled in the TripleTen Business Intelligence Analytics program and graduated from this program in June of 2024. The curriculum covered advanced spreadsheet analytics, SQL, Tableau, Power BI and more. This program included technical knowledge learning as well as practical projects and development of soft-skills to ensure readiness for jobs in data analytics and related fields.
+🔧 Skills
+-Excel/Google Sheets
+-Tableau
+-SQL
+-Power BI
+-Python
 
-Some facts about me:
-1. I am very detail-oriented and enjoy solving technical problems to improve operational processes.
-2. I am interested in professional events to expand my network and improve by skills in data and related fields.
-3. My favorite hobbies are golfing and exercising in the gym.
-4. I am currently dad to an 11 year old Victorian Bulldog, Bruiser.
-5. My biggest current goal for 2024 is landing my first full-time job in data and leveraging this to expand my skillset in the field.
+🚀 Projects
 
-Feel free to contact me on LinkedIn and view my portfolio here:
-www.linkedin.com/in/andrew-c-self
-[Portfolio.zip](https://github.com/DrewSelf1996/DrewSelf1996/files/15227322/Portfolio.zip)
+-Customer Segmentation Analysis | 06/2024
+Conducted customer segmentation analysis for Zomato, identifying purchasing patterns and recommending targeted strategies to increase revenue.
+
+-Forecasting Churn of Customers | 04/2024
+Analyzed customer retention rates for an e-commerce company, providing actionable insights using Google Sheets and visualizations.
+
+-Storytelling With Data | 03/2024
+Analyzed product return data for a superstore, created visualizations in Tableau, and presented findings to drive actionable insights.
