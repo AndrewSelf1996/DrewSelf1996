@@ -13,16 +13,15 @@ Python: Data analysis and automation.
 🚀 Projects
 📊 Customer Segmentation Analysis (06/2024)
 Conducted a customer segmentation analysis for Zomato to identify and understand their customer base. Utilized exploratory data analysis to segment customers based on demographics and purchasing behavior.
-
 Techniques: Cohort analysis, revenue analysis.
 Results: Identified key customer segments and suggested promotional strategies to mitigate seasonal sales drops.
+
 🔮 Forecasting Churn of Customers (04/2024)
 Analyzed customer retention rates for an e-commerce company, providing insights into customer conversion and retention patterns.
-
 Techniques: Data cleaning, conversion funnel analysis.
 Results: Highlighted low conversion rates and provided actionable insights to improve customer retention.
+
 📈 Storytelling With Data (03/2024)
 Performed an analysis of product return data to identify factors influencing high return rates. Created a dashboard and video presentation to convey findings.
-
 Techniques: Data visualization, trend analysis.
 Results: Recommended strategic changes to reduce return rates and enhance customer satisfaction.
